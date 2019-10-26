@@ -2,6 +2,7 @@
 # Mikhail Game Tech / Lina Mikhail (Hakcipta 2019)
 # Dikemaskini: 26102019
 
+#! /usr/bin/python
 from queue import Queue
 import socket
 import threading
