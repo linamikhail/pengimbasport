@@ -25,8 +25,11 @@ Cara Penggunaan
 Taipkan saja alamat IP atau nama domain yang ingin dimbas portnya.
 
 *Selamat menggunakan skrip Pengimbas Port Berbilang Jaluran kami.
+
 [+] Masukkan alamat IP sasaran: 192.168.0.1 
+
 atau
+
 [+] Masukkan alamat IP sasaran: lamanweb.com.my
 
 
