@@ -1,5 +1,7 @@
 # Imbasan Port Berbilang Jaluran
 # Mikhail Game Tech
+# Nama Kod: PengimnasPort.py
+# Python3 (Python Tiga)
 
 from queue import Queue
 import socket
