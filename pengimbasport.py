@@ -1,9 +1,8 @@
 # Imbasan Port Berbilang Jaluran
-# Mikhail Game Tech
-# Nama Kod: PengimnasPort.py
-# Python3 (Python Tiga)
+# Mikhail Game Tech (Hakcipta 2019)
 
-#!/usr/bin/env python
+#Dikemaskini: 26102019
+
 from queue import Queue
 import socket
 import threading
@@ -68,3 +67,5 @@ def run_scanner(threads, mode):
     print("Terima kasih kerana menggunakan pengimbas port berbilang jaluran ini")
 
 run_scanner(100, 1)
+
+
