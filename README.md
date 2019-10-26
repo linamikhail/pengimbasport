@@ -4,17 +4,17 @@ Oleh: Mikhail Game Tech / Lina Mikhail
 Nama Kod: PengimnasPort.py
 Bahasa Pengaturcaraan: PythonTiga (Python3)
 
-########################################################
+
 Pengimbas Port Berbilang Jaluran menggunakan PythonTiga
-########################################################
+-------------------------------------------------------
 Aku bina pengimbas port ni untuk digunakan di dalam aktiviti ujian penembusan keatas rangkaian dalaman dan luaran,
 terutamanya untuk ujian penembusan yang perlukan hasil imbasan di dalam Bahasa Melayu. 
 
 Dari semasa ke semasa, aku akan tambahkan lagi fungsi pada kod ni, jika aku ada masa. 
 
-########################################
+
 Cara Penggunaan
-########################################
+---------------
 Windows Sepuluh dan Seangkatannya:
 1. Muatturun versi Python dari sini: https://www.python.org/downloads/
 2. Kopipes kesemua kod Pengimbas Port pada notepad atau notepad++ atau apa-apa editor kod.
