@@ -22,9 +22,9 @@ Cara Penggunaan
 Windows Sepuluh dan Seangkatannya:
 1. Muatturun versi Python dari sini: https://www.python.org/downloads/
 2. Kopipes kesemua kod Pengimbas Port pada notepad atau notepad++ atau apa-apa editor kod.
-3. Save file tersebut dan namakan ia sebagai pengimbasport.py pada Desktop.
+3. Save kod tersebut dan namakan failnya sebagai pengimbasport.py pada Desktop.
 4. Klik-kanan pada tetikus pada fail tersebut dan pilih: Edit with IDLE > Edit with Idle.
 5. Kod akan dipaparkan pada IDLE (integrated development environment) dan boleh diubahsuai.
 6. Jika nak jalankan kod, tekan butang F5 atau tab RUN > RUN MODULE.
-7. Laksanakan imbasan, tapi jalankanlah penggodaman secara beretika.
+7. Laksanakan imbasan, tapi jalankanlah penggodaman secara beretika. :D
 
