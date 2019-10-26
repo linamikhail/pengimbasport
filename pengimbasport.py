@@ -1,7 +1,6 @@
 # Imbasan Port Berbilang Jaluran
-# Mikhail Game Tech (Hakcipta 2019)
-
-#Dikemaskini: 26102019
+# Mikhail Game Tech / Lina Mikhail (Hakcipta 2019)
+# Dikemaskini: 26102019
 
 from queue import Queue
 import socket
